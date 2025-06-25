@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **juandavidpelaezv105@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:<a>https://www.linkedin.com/in/juan-pelaez-cybersec/</a></h3>
 <p align="left">
 </p>
 
