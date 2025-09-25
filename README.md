@@ -21,9 +21,9 @@ Me motiva transformar ideas en experiencias digitales que sean fáciles de usar 
 ---
 
 ## 📂 Proyectos Destacados
-- **[Gestor de Ventas](#)**
-- **[Juego del Número Secreto](#)**
-- **[Challenge Encriptador](#)**
+- **[Gestor de Ventas](https://github.com/Juan-DavidP/Curso_Fullstack_gestor_ventas)**
+- **[Juego del Número Secreto](https://github.com/Juan-DavidP/Juego-numeroSecreto)**
+- **[Challenge Encriptador](https://github.com/Juan-DavidP/Challenge-Encriptador)**
 
 *(Puedes ver más en mis repositorios de GitHub 👇)*  
 
