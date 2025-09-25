@@ -32,5 +32,6 @@ Me motiva transformar ideas en experiencias digitales que sean fáciles de usar 
 ---
 
 ## 📫 Contacto
-- ✉️ **juandavidpelaezv105@gmail.com**  
+- ✉️ **juandavidpelaezv105@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/juan-pelaez-v/)  
 ---
