@@ -22,7 +22,7 @@ Me motiva transformar ideas en experiencias digitales que sean fáciles de usar 
 
 ## 📂 Proyectos Destacados
 - **[Gestor de Ventas](https://github.com/Juan-DavidP/Curso_Fullstack_gestor_ventas)**
-- **[Juego del Número Secreto](https://github.com/Juan-DavidP/Juego-numeroSecreto)**
+- **[Proyecto Burguer](https://github.com/Juan-DavidP/ProyectoBurguer)**
 - **[Challenge Encriptador](https://github.com/Juan-DavidP/Challenge-Encriptador)**
 
 *(Puedes ver más en mis repositorios de GitHub 👇)*  
